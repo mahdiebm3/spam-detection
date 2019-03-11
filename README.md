@@ -1,2 +1,2 @@
 # spam-detection
-This repo contains my code for Spam detection algorithms in python.
+This repo contains my code for Spam detection algorithms in python. I have collected articles from different news sources to create my own data base for real news, spam dataset contains three types of spams: marketing, algorithmic and general spams. my purpoes was to create a classifier not only to detect real news from spams but also classify kind of spams. for achieving this goal I implemented different ML algorithms.
